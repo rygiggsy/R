@@ -9,4 +9,4 @@ We use mainly the following tools and packages in this repo.
 
 ### Examples 
 1. example_shiny_textboxlimit.R - This example demonstrates how to enable character limits for your textbox.
-  
+2. example_worldcup_prediction.R - This example demonstrates how to predict world cup 2018 finals using Poisson Distribution.
